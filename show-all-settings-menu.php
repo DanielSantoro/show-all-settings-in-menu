@@ -1,5 +1,4 @@
 <?php
-
 /*
 Plugin Name: Show All Settings in Menu
 Plugin URI: http://danielsantoro.com/files/show-all-settings-menu/
@@ -27,9 +26,9 @@ Author URI: http://www.danielsantoro.com
 
 // Adds "All Settings" link in the Settings Tab for Admins
 function add_allsettings_menu() {
-add_options_page(__('All Settings'), __('All Settings'), 'administrator', 'options.php');
+    add_options_page(__('All Settings'), __('All Settings'), 'administrator', 'options.php');
 }
-add_action('admin_menu', 'add_allsettings_menu');
+add_action( 'admin_menu', 'add_allsettings_menu' );
 
 
 ?>
