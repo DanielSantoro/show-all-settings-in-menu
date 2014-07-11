@@ -26,10 +26,10 @@ Author URI: http://www.danielsantoro.com
 */
 
 // Adds "All Settings" link in the Settings Tab for Admins
-function add_allsettings_menu() {
+function add_all_settings_menu() {
 add_options_page(__('All Settings'), __('All Settings'), 'administrator', 'options.php');
 }
-add_action('admin_menu', 'add_allsettings_menu');
+add_action('admin_menu', 'add_all_settings_menu');
 
 
 ?>
