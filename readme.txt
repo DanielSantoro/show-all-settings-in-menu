@@ -48,7 +48,7 @@ A: Sorry about that, but there's not much I can do :( Install from a backup or l
 
 == Changelog ==
 
-= 7/11/2014 - Version 1.1.0 =
+= 7/14/2014 - Version 1.1.0 =
  * Removed PHP closing tag (youdaman https://twitter.com/remicorson !)
  * Cleaned up function names & syntax (savin' me as usual https://twitter.com/BFTrick !)
 
