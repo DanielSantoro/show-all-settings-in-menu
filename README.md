@@ -31,6 +31,9 @@ This plugin was created and tested using WordPress 3.9.1. No guarantee provided 
 **A:** Sorry about that, but there's not much I can do :( Install from a backup or look into changing the value back through mySQL. You should only install this plugin if you're confident in your abilities with `options.php`.
 
 ##Changelog##
+* **7/14/2014 - Version 1.1.0**
+ * Removed PHP closing tag (youdaman https://twitter.com/remicorson !)
+ * Cleaned up function names & syntax (savin' me as usual https://twitter.com/BFTrick !) 
 * **7/11/2014 - Version 1.0.0**
  * Updated `readme.txt` formatting, links, etc. Thanks for the pointers, @hlashbrooke !  
 * **7/7/2014 - Version 1.0.0**
