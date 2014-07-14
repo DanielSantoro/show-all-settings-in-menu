@@ -47,8 +47,13 @@ A: Sorry about that, but there's not much I can do :( Install from a backup or l
 1. Menu item is visible in Settings tab.
 
 == Changelog ==
-= 7/11/2014 - Version 1.0.0 =
- * Updated `readme.txt` formatting, links, etc. Thanks for the pointers, @hlashbrooke !
+
+= 7/11/2014 - Version 1.1.0 =
+ * Removed PHP closing tag (youdaman https://twitter.com/remicorson !)
+ * Cleaned up function names & syntax (savin' me as usual https://twitter.com/BFTrick !)
+
+= 7/11/2014 - Version 1.0.1 =
+ * Updated `readme.txt` formatting, links, etc. (Thanks for the pointers, https://twitter.com/hlashbrooke !)
 
 = 7/7/2014 - Version 1.0.0 =  
  * Initial Release
